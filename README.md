@@ -18,10 +18,14 @@ Run all the notebook cells modifying the parameters.
 
 ## Examples
 Parameters:
+
 _bioes = True_ (for BIOES tag)/ _False_ (for BIO tag);
+
 _task1 = True_ (for Task1) / _False_ (for Task2);
+
 _plus = True_ (use ProfNER data) / _False_ (only MEDDOPROF data);
-_positives = True_ (use only positives for training) / _False_ (use only positives for training)
+
+_positives = True_ (use only positives for training) / _False_ (use only positives for training);
 
 ### Input / Output
 Processed data will be saved in the "_processedData_" folder. The predictions will be saved in the "_MEDDOPROF_dccuchile_bert-base-spanish-wwm-uncased>predicitions_" folder (rename it before use different parameters).
