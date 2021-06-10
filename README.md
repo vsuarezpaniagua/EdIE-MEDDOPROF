@@ -34,4 +34,4 @@ Processed data will be saved in the "_processedData_" folder. The predictions wi
 Víctor Suárez-Paniagua (vsuarezpaniagua@gmail.com).
 
 ## License
-
+MIT License.
