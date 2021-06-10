@@ -1,7 +1,7 @@
 # EdIE-MEDDOPROF
 
 ## Introduction
-Multiple BETO classifiers for MEDDOPROF Shared Task 2021.
+Multiple BETO classifiers and fuzzy string matching for MEDDOPROF Shared Task 2021.
 
 ## Prerequisites
 Following packages need to be installed:
